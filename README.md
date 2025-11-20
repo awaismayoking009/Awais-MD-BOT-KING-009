@@ -2,7 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=**AWAIS-MD-BOT**;**THE+ULTIMATE+MULTI-DEVICE+BOT**;CREATED+BY+AWAISMAYOKING009;UNLIMITED+USAGE" alt="Animated Typing SVG" />
 </p>
 
-![Bot Image](media/✨AWAIS MAYO KING 009✨.jpg)
+
+
+██████████████████████████████████████████ 
+██▀▄─███▄─█▀▀▀█─▄███▀▄─███▄─▄██─▄▄▄▄██████ 
+██─▀─████─█─█─█─████─▀─████─███▄▄▄▄─██████ 
+▀▄▄▀▄▄▀▀▀▄▄▄▀▄▄▄▀▀▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀▀▀▀▀▀ 
+
+
+
+
+<img src="media/✨AWAIS MAYO KING 009✨.jpg" width="100%">
 
 <img src="media/✨AWAIS MAYO KING 009✨.jpg" width="100%">
 
@@ -22,6 +32,62 @@ Whether you want **auto typing, media download, group management**, or just **fu
 **Perfect for**: Termux users, Linux enthusiasts, developers, and bot lovers who want a full-featured WhatsApp bot.  
 
 <img src="media/✨AWAIS MAYO KING 009✨.jpg" width="100%">
+
+
+
+
+
+<img src="media/✨AWAIS MAYO KING 009✨.jpg" width="100%">
+
+
+
+
+
+
+
+░██░ ░█░░░█ ░██░ █ ░███                         █░░░█ ░██░ █░░░█ ░██░  
+█░░█ ░█░█░█ █░░█ █ █░░░                         ██░██ █░░█ ░█░█░ █░░█  
+████ ░█░█░█ ████ █ ░██░                         █░█░█ ████ ░░█░░ █░░█  
+█░░█ ░██░██ █░░█ █ ░░░█                         █░░░█ █░░█ ░░█░░ █░░█  
+█░░█ ░░█░░█ █░░█ █ ███░                         █░░░█ █░░█ ░░█░░ ░██░  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               █░░█ █ █░░░█ ░██░             █░█ ░██░ ░██░ █░░█ ███ ███░  
+               █░█░ █ ██░░█ █░░░             █░█ █░░█ █░░█ █░█░ █░░ █░░█  
+               ██░░ █ █░█░█ █░█░             ███ ████ █░░░ ██░░ ███ ███░  
+               █░█░ █ █░░██ █░░█             █░█ █░░█ █░░█ █░█░ █░░ █░░█  
+               █░░█ █ █░░░█ ░██░             █░█ █░░█ ░██░ █░░█ ███ █░░█  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+███ ███░ ░██░ █░░░█                   █░░█ ░██░ ░███ █░░█ ███░     
+█░░ █░░█ █░░█ ██░██                   █░█░ █░░█ █░░░ █░░█ █░░█     
+██░ ███░ █░░█ █░█░█                   ██░░ ████ ░██░ █░░█ ███░     
+█░░ █░░█ █░░█ █░░░█                   █░█░ █░░█ ░░░█ █░░█ █░░█     
+█░░ █░░█ ░██░ █░░░█                   █░░█ █░░█ ███░ ░██░ █░░█     
+
+ 
+
+
+
+
+
+
 
 
 ## 📦 Features
@@ -135,6 +201,28 @@ Anime menu
 ​<img src="media/✨AWAIS MAYO KING 009✨.jpg" height="90" width="100%">
 ​✨💀🔥 Enjoy AWAIS-MD-BOT, your ultimate Multi-Device automation & fun bot! 🌹
 ​
+
+┏━┓ ┳┈┳ ┏━┓ ┳ ┏━┓ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┏┳┓ ┏━┓ ┳┈┳ ┏━┓  
+┣━┫ ┃┃┃ ┣━┫ ┃ ┗━┓ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┃┃┃ ┣━┫ ┗┳┛ ┃┈┃  
+┻┈┻ ┗┻┛ ┻┈┻ ┻ ┗━┛ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┻┈┻ ┻┈┻ ┈┻┈ ┗━┛  
+ 
+ 
+ 
+┈ ┈ ┈ ┈ ┈ ┳┏━ ┳ ┏┓┏ ┏━┓ ┈ ┈ ┈ ┈ ┳┈┳ ┏━┓ ┏━┓ ┳┏━ ┏━┓ ┳━┓  
+┈ ┈ ┈ ┈ ┈ ┣┻┓ ┃ ┃┃┃ ┃┈┳ ┈ ┈ ┈ ┈ ┣━┫ ┣━┫ ┃┈┈ ┣┻┓ ┣┫┈ ┣┳┛  
+┈ ┈ ┈ ┈ ┈ ┻┈┻ ┻ ┛┗┛ ┗━┛ ┈ ┈ ┈ ┈ ┻┈┻ ┻┈┻ ┗━┛ ┻┈┻ ┗━┛ ┻┗━  
+ 
+ 
+ <img src="media/✨AWAIS MAYO KING 009✨.jpg" width="100%">
+ 
+ 
+ 
+┏━┓ ┳━┓ ┏━┓ ┏┳┓ ┈ ┈ ┈ ┈ ┈ ┈ ┳┏━ ┏━┓ ┏━┓ ┳┈┳ ┳━┓  
+┣┫┈ ┣┳┛ ┃┈┃ ┃┃┃ ┈ ┈ ┈ ┈ ┈ ┈ ┣┻┓ ┣━┫ ┗━┓ ┃┈┃ ┣┳┛  
+┗┈┈ ┻┗━ ┗━┛ ┻┈┻ ┈ ┈ ┈ ┈ ┈ ┈ ┻┈┻ ┻┈┻ ┗━┛ ┗━┛ ┻┗━
+
+
+
 
 
 ![Watch Video](https://img.shields.io/badge/Watch%20Video-BOMB HACKING BY TERMUX 🔐🔥-red?style=for-the-badge&logo=youtube)
